@@ -1,0 +1,24 @@
+{
+  "name": "automatedhome",
+  "version": "1.0.0",
+  "description": "Audrino, Johnny-5.io home automation app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentucky-roberts/homeAutomation.git"
+  },
+  "author": "Christopher J. Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kentucky-roberts/homeAutomation/issues"
+  },
+  "homepage": "https://github.com/kentucky-roberts/homeAutomation#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "johnny-five": "^0.9.39",
+    "socket.io": "^1.4.5"
+  }
+}

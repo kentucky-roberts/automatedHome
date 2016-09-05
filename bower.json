@@ -1,0 +1,22 @@
+{
+  "name": "automatedhome",
+  "description": "Audrino, Johnny-5.io home automation app",
+  "main": "index.js",
+  "authors": [
+    "Christopher J. Roberts"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.4",
+    "socket.io-client": "^1.4.5",
+    "angular-socket-io": "^0.7.0"
+  }
+}
